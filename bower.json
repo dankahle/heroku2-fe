@@ -1,0 +1,53 @@
+{
+  "name": "contacts-fe",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dankahle/contacts-fe",
+  "authors": [
+    "Dan Kahle <dan.kahle@gmail.com>"
+  ],
+  "description": "Front end for contacts",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.1",
+    "angular-animate": "1.4.1",
+    "angular-aria": "1.4.1",
+    "angular-cookies": "1.4.1",
+    "angular-messages": "1.4.1",
+    "angular-mocks": "1.4.1",
+    "angular-resource": "1.4.1",
+    "angular-route": "1.4.1",
+    "angular-sanitize": "1.4.1",
+    "angular-touch": "1.4.1",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.0",
+    "restangular": "~1.5.1",
+    "angular-ui-router": "~0.2.15",
+    "ui-router-extras": "~0.0.14",
+    "moment": "~2.10.3",
+    "font-awesome": "~4.3.0",
+    "bootstrap-datepicker": "~1.4.0",
+    "animate.css": "~3.3.0",
+    "bootstrap": "~3.3.5",
+    "angular-breadcrumb": "~0.4.0"
+  },
+  "resolutions": {
+    "angular": "1.4.1",
+    "angular-animate": "1.4.1",
+    "angular-aria": "1.4.1",
+    "angular-cookies": "1.4.1",
+    "angular-messages": "1.4.1",
+    "angular-mocks": "1.4.1",
+    "angular-resource": "1.4.1",
+    "angular-route": "1.4.1",
+    "angular-sanitize": "1.4.1",
+    "angular-touch": "1.4.1"
+  }
+}
