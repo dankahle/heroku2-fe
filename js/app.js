@@ -5,8 +5,8 @@
 	var app = angular.module('app', []);
 	app.value('settings', {
 		env: 'production',
-		devUrl: 'http://localhost:3002/api/user',
-		prodUrl: 'http://desolate-reef-8955.herokuapp.com/heroku1-be/user'
+		devUrl: 'http://localhost:3002/api/product',
+		prodUrl: 'http://desolate-reef-8955.herokuapp.com/heroku2-be/product'
 	})
 
 	app.controller('bodyCtrl', function ($scope, $http, settings) {
